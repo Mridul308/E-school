@@ -1,0 +1,104 @@
+.start{
+    background-color: #F0FFF0;
+    margin-left: 20px;
+}
+.row{
+    margin: 20px;
+}
+#fri{
+    color: #F5BEA0;
+}
+span{
+    color: #21B573;
+}
+.cat{
+    background-color: #F8FFFB;
+    padding: 10px 10px 10px 40px;
+}
+.cat :hover{
+    height: 100%;
+    border-radius: 10px;
+}
+.cat img{
+    width: 100px;
+}
+/* .cat1{
+    height: 280px;
+    background-color: #19d86c;
+    padding: 10px 10px 10px 30px;
+}
+.cat2{
+    height: 280px;
+    background-color: teal;
+    padding:;
+} */
+/* .cat1, .cat2, .cat3, .cat4 :hover{
+    color: grey;
+    box-shadow: 15px;
+} */
+.cat1 :hover{
+    border-radius: 10px;
+    box-shadow: 35px;
+    background-color: #e7e1e1;
+}
+.cat2 :hover{
+    border-radius: 10px;
+    box-shadow: 35px;
+    background-color:#e7e1e1;
+}
+.cat3 :hover{
+    border-radius: 10px;
+    box-shadow: 35px;
+    background-color:#e7e1e1;
+}
+.cat4 :hover{
+    border-radius: 10px;
+    box-shadow: 35px;
+    background-color:#e7e1e1;
+}
+.card{
+    padding: 10px;
+}
+.card-foot{
+    width: 10%;
+    padding-left: 10px;
+}
+#img{
+    width: 50%;
+    align-items: center;
+}
+#img1{
+    width: 60%;
+}
+#man{
+    text-align: center;
+}
+.last{
+    height: 150px;
+    padding: 20px;
+    margin: 25px 70px 25px 75px;
+}
+.least{
+    color: white;
+    background-color: black;
+    padding: 30px;
+}
+.grid{
+    text-align: center;
+}
+.button{
+    color: white;
+    background-color: #21B472;
+    border-radius: 10px;
+    border: none;
+}
+#button{
+    color: white;
+    background-color: #21B472;
+    border-radius: 10px;
+    border: none;
+} 
+.test{
+    margin: 20px;
+    padding-bottom: 20px;
+}
